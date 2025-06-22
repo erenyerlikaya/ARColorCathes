@@ -22,8 +22,7 @@ Projeyi Unity 2020'de açın.
 "Build Settings" üzerinden platformu seçin.
 XR Plugin Management üzerinden ilgili AR desteklerini etkinleştirin.
 
-APK drive link   [https://drive.google.com/file/d/1QOqWS_2nI1qfFwZVa2tL8juEgc_yWCof/view?usp=drive_link](https://drive.google.com/file/d/12ewr9I-fKU-dsaq0ATYXBW-SwUAAJByC/view?usp=drive_link)
-
+APK drive link  https://drive.google.com/file/d/12ewr9I-fKU-dsaq0ATYXBW-SwUAAJByC/view?usp=drive_link
 
 ### Kendin Yap ~ (_Building Blocks_)
 
